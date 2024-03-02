@@ -67,3 +67,5 @@ dat-sdk-bundle.js
 
 # IDE
 .idea
+
+**.DS_Store
